@@ -20,22 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Projeto RAG'n Rock
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em uma extração de conteudo de documentos de determinado repositorio cloud da empresa RAG'n Rock
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Azure AI Hub
+Azure Semantic Kernel
+Azure AI Search
+Azure Blob Storage
+ChatGPT 5 nano
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O projeto foi criado a partir do portal Azure com um resource group localizado em east us 2 na Azure.
+Foi utilizado os modelos de embedding para extrair e fazer o enrichment dos dados com o uso do modelo de embedding AVA da Open AI.
+A partir dos dados foi criado todo o ambiente para a AI fazer o trabalho.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto correspondeu com todas as expectatvas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Excelente desafio para colocar tanto idéia quanto prática em ação!
 ```
 
 ### Exemplos e Insigths
